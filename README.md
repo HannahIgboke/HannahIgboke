@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.mos.cms.futurecdn.net/baYs9AuHxx9QXeYBiMvSLU-1200-80.jpg)](https://cdn.mos.cms.futurecdn.net/baYs9AuHxx9QXeYBiMvSLU-1200-80.jpg)
 <h1 align="center">Hi 👋, My name is Hannah Igboke</h1>
 <h3 align="center">I am a Chemical Engineering Graduate and a Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
