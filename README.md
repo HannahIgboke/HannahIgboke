@@ -14,19 +14,24 @@
 
 
 
-
-
-
 ## What you should know
 
-- 🧠 I have a knack for transforming raw data into meaningful insights. 
+- 🧠 I have a knack for transforming raw data into meaningful insights.
+  
 - 🔍 Exploring datasets and uncovering hidden patterns is where I thrive. I enjoy the entire data analysis pipeline. My goal is to not only derive valuable insights but also to communicate them effectively through compelling visualizations and reports.
+  
 - 💻 I love leveraging technology to tackle complex problems and delivering impactful solutions.
-- 📊 Continuous learning is a core part of my professional ethos. I stay abreast of the latest developments in data science and analytics to ensure that my skills are always cutting-edge. 
+  
+- 📊 Continuous learning is a core part of my professional ethos. I stay abreast of the latest developments in data science and analytics to ensure that my skills are always cutting-edge.
+  
 - 👐 I am open to Job opportunities
+  
 - 📝 I regularly write articles on [Medium](https://medium.com/@HannahIgboke)
+  
 - 🤝 Let's connect and collaborate on exciting data projects! Feel free to explore my repositories and reach out if you have questions or ideas to share.
+  
 - 📫 How to reach me: [Email](danielhannah663@gmail.com)
+  
 - ⚡ Fun fact **I am a peanut fanatic. I enjoy reading, playing chess and solving Sudoku puzzles**
 
 
