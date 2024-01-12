@@ -1,9 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1000&lines=Hi+There!+👋;+My+name+is+Hannah+Igboke;" />
-</h1>
-
-
-<h1 align="left">Hi 👋, My name is Hannah Igboke</h1>
+<h1 align="center">Hi 👋, My name is Hannah Igboke</h1>
 
 
 <h3 align="left">I am a Chemical Engineering Graduate and a Data Analyst</h3>
