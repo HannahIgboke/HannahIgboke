@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, My name is Hannah Igboke</h1>
 
-
-<h3 align="left">I am a Chemical Engineering Graduate and a Data Analyst</h3>
+## I am a Chemical Engineering Graduate and a Data Analyst
 
 <center>
   <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Animated GIF" width="500" height="400">
@@ -35,18 +34,46 @@
 
 ## 🔗 Connect with me:
 
-<p align="left">
-<a href="https://twitter.com/igbokehannah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igbokehannah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hannah igboke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hannah igboke" height="30" width="40" /></a>
-</p>
+<div align="left"> 
+  <a href="danielhannah663@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/hannahigboke" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+    <a href="https://twitter.com/IgbokeHannah">
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FIgbokeHannah&style=for-the-badge&logo=X&logoColor=(0%2C%200%2C%200)&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Ftwitter.com%2FIgbokeHannah"/>
+  </a>
+  </a>
+</div>
 
 
 ## 🛠 Languages and Tools:
 
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="center"> 
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>   </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hannahigboke&show_icons=true&locale=en&layout=compact" alt="hannahigboke" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hannahigboke&" alt="hannahigboke" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hannahigboke" alt="hannahigboke" /></a> </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ashy-sigma.vercel.app?user=HannahIgboke&theme=onedark-duo" alt="GitHub Streak" /></a>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ashy-sigma.vercel.app?user=HannahIgboke&theme=onedark-duo" alt="GitHub Streak"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=HannahIgboke&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HannahIgboke&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"
+</div>
+
+<br/><br/>
+
+<hr/>
