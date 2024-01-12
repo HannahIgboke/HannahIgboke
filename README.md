@@ -9,8 +9,7 @@
 <h3 align="left">I am a Chemical Engineering Graduate and a Data Analyst</h3>
 
 <center>
-  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Animated GIF" style="width: 300; height: 300;">
-</center>
+  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Animated GIF" width="500" height="400">
 </center>
 
 
