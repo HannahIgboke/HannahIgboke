@@ -12,7 +12,7 @@
 
 - 🧠 I have a knack for transforming raw data into meaningful insights.
   
-- 🔍 Exploring datasets and uncovering hidden patterns is where I thrive. I enjoy the entire data analysis pipeline. My goal is to not only derive valuable insights but also to communicate them effectively through compelling visualizations and reports.
+- 🔍 I enjoy the entire data analysis pipeline. My goal is to not only derive valuable insights but also to communicate them effectively through compelling visualizations and reports.
   
 - 💻 I love leveraging technology to tackle complex problems and delivering impactful solutions.
   
