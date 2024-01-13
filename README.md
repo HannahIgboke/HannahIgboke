@@ -8,7 +8,6 @@
 
 <hr/>
 <h2 align="left">👩‍🚀About me:</h2>
-## About me:
 
 - 🧠 I have a knack for transforming raw data into meaningful insights.
   
