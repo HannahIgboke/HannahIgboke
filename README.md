@@ -6,8 +6,9 @@
   <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Animated GIF" width="500" height="400">
 </center>
 
-
-## About me
+<hr/>
+<h2 align="left">👩‍🚀About me:</h2>
+## About me:
 
 - 🧠 I have a knack for transforming raw data into meaningful insights.
   
@@ -27,12 +28,14 @@
   
 - ⚡ Fun fact **I am a peanut fanatic. I enjoy reading, playing chess and solving Sudoku puzzles**
 
-
-## 🤼 Profile visits
+<hr/>
+<h2 align="left">🤼 Profile visits</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hannahigboke&label=Profile%20views&color=0e75b6&style=flat" alt="hannahigboke" /> </p>
 
-## 🔗 Connect with me:
+
+<hr/>
+<h2 align="left">🔗 Connect with me</h2>
 
 <div align="left"> 
   <a href="danielhannah663@gmail.com">
@@ -48,7 +51,8 @@
 </div>
 
 
-## 🛠 Languages and Tools:
+<hr/>
+<h2 align="left">🛠 Languages and Tools:</h2>
 
 <p align="center"> 
 
@@ -58,6 +62,7 @@
 Other Tools include:
 - Microsoft Excel
 - Power BI
+
 
 <hr/>
 
