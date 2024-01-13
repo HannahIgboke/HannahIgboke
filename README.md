@@ -7,7 +7,7 @@
 </center>
 
 
-## What you should know
+## About me
 
 - 🧠 I have a knack for transforming raw data into meaningful insights.
   
@@ -55,20 +55,16 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>   </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hannahigboke&show_icons=true&locale=en&layout=compact" alt="hannahigboke" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hannahigboke&" alt="hannahigboke" /></p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ashy-sigma.vercel.app?user=HannahIgboke&theme=onedark-duo" alt="GitHub Streak" /></a>
+Other Tools include:
+- Microsoft Excel
+- Power BI
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ashy-sigma.vercel.app?user=HannahIgboke&theme=onedark-duo" alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ashy-sigma.vercel.app?user=HannahIgboke&theme=onedark-duo" alt="GitHub Streak" /></a>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=HannahIgboke&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HannahIgboke&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"
