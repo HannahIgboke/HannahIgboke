@@ -65,7 +65,7 @@ Other Tools include:
 <br>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ashy-sigma.vercel.app?user=HannahIgboke&theme=onedark-duo" alt="GitHub Streak" /></a>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=HannahIgboke&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=450 src="https://github-readme-stats.vercel.app/api?username=HannahIgboke&theme=dark&show_icons=true" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HannahIgboke&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"
 </div>
