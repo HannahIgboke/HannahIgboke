@@ -1,31 +1,21 @@
-<h1 align="center">Hi 👋, My name is Hannah Igboke</h1>
+<h1 align="left">Hi 👋, I'm Hannah Igboke</h1>
 
-## I am a Chemical Engineering Graduate and a Data Analyst
+<h3 align="left">👩‍🚀Welcome to my space...</h3>
 
-<center>
-  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Animated GIF" width="500" height="400">
-</center>
+Here, I design and build robust, end-to-end data solutions that improve decisions, increase efficiencies, and drive measurable impact.
 
-<hr/>
-<h2 align="left">👩‍🚀About me:</h2>
+My work includes analytical problem-solving, data modeling, machine learning, and technical implementation. And how do I achieve this? By:
 
-- 🧠 I have a knack for transforming raw data into meaningful insights.
-  
-- 🔍 I enjoy the entire data analysis pipeline. My goal is to not only derive valuable insights but also to communicate them effectively through compelling visualizations and reports.
-  
-- 💻 I love leveraging technology to tackle complex problems and delivering impactful solutions.
-  
-- 📊 Continuous learning is a core part of my professional ethos. I stay abreast of the latest developments in data science and analytics to ensure that my skills are always cutting-edge.
-  
-- 👐 I am open to Job opportunities
-  
-- 📝 I regularly write articles on [Medium](https://medium.com/@HannahIgboke)
-  
-- 🤝 Let's connect and collaborate on exciting data projects! Feel free to explore my repositories and reach out if you have questions or ideas to share.
-  
-- 📫 How to reach me: [Email](danielhannah663@gmail.com)
-  
-- ⚡ Fun fact **I am a peanut fanatic. I enjoy reading, playing chess and solving Sudoku puzzles**
+- Transforming raw data into actionable insights
+- Building AI-powered tools, dashboards, and pipelines that actually solve problems
+- Visualizing and communicating data clearly to support better decisions
+- Writing tutorials and [Medium](https://medium.com/@HannahIgboke) articles to make complex concepts approachable
+- Collaborating with teams to tackle real-world challenges across domains
+
+Curious? Questions? Ideas? Check out my repositories, explore my projects, or send me a message.
+
+Fun fact: I am a huge fan of the Harry Potter book series and wouldn't say no to a good game of chess.
+
 
 <hr/>
 <h2 align="left">🤼 Profile visits</h2>
